@@ -6,3 +6,5 @@ theme = "ananke"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+name = "twitter"
+url = "https://twitter.com/GoHugoIO1"
