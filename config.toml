@@ -5,7 +5,10 @@ theme = "ananke"
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/LaurenceTickell"
 [[params.ananke_socials]]
 name = "linkedin"
-url = "https://twitter.com/GoHugoIO1"
+url = "https://www.linkedin.com/in/laurence-carton-tickell/"
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/laurence262/reels/"
