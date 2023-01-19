@@ -7,5 +7,5 @@ theme = "ananke"
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
 [[params.ananke_socials]]
-name = "twitter"
+name = "linkedin"
 url = "https://twitter.com/GoHugoIO1"
