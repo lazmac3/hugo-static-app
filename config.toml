@@ -17,4 +17,7 @@ name = "linkedin"
 url = "https://www.linkedin.com/in/laurence-carton-tickell/"
 [[params.ananke_socials]]
 name = "instagram"
-url = "https://www.instagram.com/laurence262/reels/"
+url = "https://www.instagram.com/laurence262/"
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/lazmac3"
