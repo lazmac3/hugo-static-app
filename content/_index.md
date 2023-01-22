@@ -2,7 +2,7 @@
 title: "Laurence Tickell"
 
 cascade:
-  featured_image: '/images/Rhine.jpg'
+  featured_image: '/image/Rhine.jpg'
 ---
 Welcome to my personal Blog.
 There are links to my social media. 
