@@ -1,6 +1,6 @@
 baseURL = 'https://red-sea-0b5a48603.2.azurestaticapps.net/'
 languageCode = 'en-us'
-title = 'Laurence Tickell'
+title = 'Laurence'
 theme = "ananke"
 
 DefaultContentLanguage = "en"
